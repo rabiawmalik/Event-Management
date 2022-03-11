@@ -35,6 +35,15 @@ echo "<br>Subtraction of $num1 and $num2 is ". $sub;
 echo "<br>Multiplication of $num1 and $num2 is ". $mul;
 echo "<br>Division of $num1 and $num2 is ". $div;
 echo "<br>Module of $num1 and $num2 is ". $mod;
+
+//===================2nd class==============
+
+echo "<h1>Operators</h1><br>";
+echo "<h3>Relational Operators</h3><br>";
+// == , > , < , >= , <= , <> , ===
+$num1 = 5;
+$num1 = 8;
+echo "$a == $b</br>";
 ?>
 </body>
 </html>
